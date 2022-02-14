@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis Orlov
-- 🌱 I’m currently learning Android
+- 🌱 I am Android Developer
 - 📫 How to reach me 
     e-mail: orlov.ejc@gmail.com
     tel.: +375293355410
